@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           <h2>New Update with CI/CD Github actions</h2>
           <h2>Added cypress e2e tests</h2>
+          <h2>Added jest unit tests</h2>
         </p>
         <a
           className="App-link"
