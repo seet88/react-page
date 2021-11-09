@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          <h2>New Update Again with CI/CD</h2>
+          <h2>New Update Again with CI/CD 2</h2>
         </p>
         <a
           className="App-link"
