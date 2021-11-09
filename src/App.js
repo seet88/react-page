@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <h2>New Update with CI/CD Github actions</h2>
-          <h2>Add cypress Tests</h2>
+          <h2>Added cypress e2e tests</h2>
         </p>
         <a
           className="App-link"
@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Re
+          Learn React
         </a>
       </header>
     </div>
